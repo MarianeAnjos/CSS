@@ -1,0 +1,33 @@
+/* Arquivo de CSS  */
+
+/* Seletor TAG  */
+p {
+  color: red;
+}
+
+h2 {
+  color: #715AFF;
+}
+
+/* Seletor ID */
+#paragrafo-4 {
+  font-size: 1.2em;
+  color: orange;
+}
+
+/* Seletor Classe */
+
+.cor-verde{
+  color: green;
+}
+
+.fonte-3{
+  font-size: 1.3em;
+}
+
+span {
+  color: red;
+}
+
+
+
